@@ -33,8 +33,6 @@
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 
 ### Tools & Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
@@ -42,7 +40,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 ## 📫 Contact
-Feel free to reach out via [email@example.com] or visit [my portfolio](https://your-portfolio-link.com)  
+Feel free to reach out via [pingdoll3110@korea.ac.kr]
 <!-- 또는 Notion, LinkedIn, velog, GitHub Blog 링크도 가능 -->
 
 ---
