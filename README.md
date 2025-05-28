@@ -9,7 +9,7 @@
 ## 🧩 Projects
 - **KoDaeRo** (고대로) – Project Manager  
   Korea University's integrated indoor/outdoor map app  
-  → 4,000+ downloads | [DevKor](https://github.com/DevKor)
+  → 4,000+ downloads | [DevKor](https://kodaero.co.kr)
 
 - **Video Summarization** – Research Intern @ MLV Lab  
   Worked on deep learning models for summarizing video content (Jan–Mar 2025)
