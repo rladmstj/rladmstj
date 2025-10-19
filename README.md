@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:00C9A7&height=300&section=header&text=Eunseo%20Kim&fontSize=50&fontAlign=70&desc=Computer%20Science%20Student%20@%20Korea%20University&descAlign=70)
 
-## 👋 About Me
+## About Me
 - 🎓 Bachelor Student @ **Korea University**, Department of Computer Science and Engineering  
 - 💡 Interested in **Brain-Computer Interfaces**, **Multimodal AI**, and **Speech Processing**
 - 💻 Passionate about combining AI with real-world applications and accessibility tech
 - 🧠 GPA: **4.3 / 4.5**
 
-## 🧩 Projects
+## Projects
 - **KoDaeRo** (고대로) – Project Manager  
   Korea University's integrated indoor/outdoor map app  
   → 4,000+ downloads | [DevKor](https://kodaero.co.kr)
