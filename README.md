@@ -4,7 +4,7 @@
 - 🎓 Bachelor Student @ **Korea University**, Department of Computer Science and Engineering  
 - 💡 Interested in **Brain-Computer Interfaces**, **Multimodal AI**, and **Speech Processing**
 - 💻 Passionate about combining AI with real-world applications and accessibility tech
-- 🧠 GPA: **4.3 / 4.5**
+
 
 ## Projects
 - **KoDaeRo** (고대로) – Project Manager  
